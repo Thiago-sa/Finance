@@ -195,3 +195,30 @@ input[type='number'] {
 .transactions li:hover .delete-btn {
   opacity: 1;
 }
+
+.footer-bottom{
+  background: black;
+  width: 99.5vw;
+  padding: 5px 0;
+  text-align: center;
+}
+
+.footer-bottom p{
+  color: white;
+  font-family: 'Nunito', sans-serif;
+  font-size: smaller;
+  letter-spacing: 2.5px;
+}
+
+.footer-bottom a{
+  text-decoration: none;
+  color: rgb(179, 179, 179);
+}
+
+.footer-bottom a:hover{
+  color: rgb(0, 25, 247);
+}
+
+.footer-bottom span{
+  font-size: 0.7em;
+}
