@@ -198,7 +198,7 @@ input[type='number'] {
 
 .footer-bottom{
   background: black;
-  width: 100vw;
+  width: 100%;
   padding: 5px 0;
   text-align: center;
 }
@@ -211,7 +211,6 @@ input[type='number'] {
 }
 
 .footer-bottom a{
-  text-decoration: none;
   color: rgb(179, 179, 179);
 }
 
@@ -220,5 +219,5 @@ input[type='number'] {
 }
 
 .footer-bottom span{
-  font-size: 0.9em;
+  font-size: 0.6em;
 }
